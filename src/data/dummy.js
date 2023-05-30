@@ -124,28 +124,28 @@ export const projectsData = {
     portfolioData: [
         {
             id: 1,
-            projectName: 'Inventory  Management System ',
-            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"],
-            code: 'https://github.com/kamrulcoder/invetory-frontend',
-            demo: 'https://genuine-panda-f8ff78.netlify.app/',
+            projectName: 'Doctors portal',
+            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
+            code: 'https://github.com/amotahar/doctors-portal-client',
+            demo: 'https://doctors-portal-5c4fe.web.app/',
             image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676099361/all-devices-black_wvbz6r.png"
         },
         {
             id: 2,
-            projectName: 'React Admin Dashboard ',
-            tags: ["Tailwind Css", "React Js", "Context Api", "Syncfusion2", "richtexteditor"],
-            code: 'https://github.com/kamrulcoder/dashboard',
-            demo: 'https://dashboard-shoppy.netlify.app/',
+            projectName: 'Doctors portal',
+            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
+            code: 'https://github.com/amotahar/doctors-portal-client',
+            demo: 'https://doctors-portal-5c4fe.web.app/',
             image: "https://i.ibb.co/W6g39w3/image.png"
         },
         {
-            id: 2,
-            projectName: 'React Personal Website  ',
-            tags: [ "Context Api", "React router dom ", "framer motion ", "Tailwind Css", "React Js"],
-            code: 'https://github.com/kamrulcoder/personal-portfolio',
-            demo: 'https://kamrul-portfolio.netlify.app/',
+            id: 3,
+            projectName: 'Doctors portal',
+            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
+            code: 'https://github.com/amotahar/doctors-portal-client',
+            demo: 'https://doctors-portal-5c4fe.web.app/',
             image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676108691/portfolio_jfxxpx.png"
-        }
+        },
     ]
 }
 
@@ -157,27 +157,8 @@ export const servicesData = {
     services: [
         {
             id: 1,
-            serviceName: 'Web Design ',
-            subTitle: "Web design is done in a perfect way which is the responsibility of the user",
-            icon: "https://vportfolio.amcoders.com/frontend/img/service/4.png"
-        },
-        
-        {
-            id: 1,
-            serviceName: 'Web Development  ',
-            subTitle: "JavaScript is projected with React js and next js which are very popular nowadays.",
-            icon: "https://vportfolio.amcoders.com/frontend/img/service/1.png"
-        },
-        {
-            id: 1,
-            serviceName: 'Api integration',
-            subTitle: "Api is created for the backend of the project which contains the functionality of a website.",
-            icon: "https://vportfolio.amcoders.com/frontend/img/service/2.png"
-        },
-        {
-            id: 1,
-            serviceName: 'Web Design ',
-            subTitle: "Web design is done in a perfect way which is the responsibility of the user",
+            serviceName: 'MERN Stack',
+            subTitle: "Frontand & Backend is done in a perfect way which is the responsibility of the user",
             icon: "https://vportfolio.amcoders.com/frontend/img/service/4.png"
         },
         
