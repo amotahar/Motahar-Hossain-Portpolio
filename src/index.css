@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0
+}
+
+body {
+  background: #E6E7EE;
+  overflow-x: hidden;
+
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navLink {
+  @apply font-semibold     uppercase  dark:text-white  text-black shadow-light-shadow  px-5 py-2  dark:shadow-dark-shadow  hover:shadow-inset-shadow ease-in-out duration-500	transition   dark:hover:shadow-inset-dark-shadow   md:text-[12px] lg:text-[20px] md:inline-block xs:block
+  xs:shadow-none dark:xs:shadow-none 
+}
+
+
+.heroStaticIcon {
+  @apply  w-20 aspect-square  rounded-full  text-[120px]  absolute  lg:w-[110px]  lg:h-[110px]  xs:w-[70px]  xs:h-[70px]  flex items-center justify-center shadow-light-shadow  z-10  dark:text-white  dark:shadow-dark-outside-shadow 
+}
+
+
+.activeLink {
+  @apply text-yellow-color
+}
+
+.socialIcon {
+  @apply  rounded-full py-[11px]  px-[14px] shadow-light-shadow inline-flex items-center justify-center w-[50px] h-[55px]
+}
+
+
+.inputBox{
+  @apply  w-full block py-3 px-6  rounded-md  transition-all font-semibold   outline-none
+}
+
+.button {
+  @apply px-[36px] py-3 dark:shadow-dark-shadow   dark:border-none rounded-sm  border shadow-light-shadow  font-semibold hover:shadow-inset-shadow  dark:text-white  uppercase  dark:hover:shadow-inset-dark-shadow
+} 
+
+.mobileMenu {
+  @apply md:hidden  absolute  w-full  py-5 top-[70px] left-0 z-40  dark:bg-dark-bg-color bg-light-body-color  shadow-light-shadow  dark:shadow-dark-outside-shadow
+}
+
+
+.technologyIcon {
+   @apply  px-2 py-1  text-xs  rounded-3xl uppercase  shadow-light-shadow dark:shadow-dark-shadow
+}
+
+
+.headerActive{
+  @apply fixed w-full 
+}
+
+.heroBottomToRightIcon {
+  @apply md:bottom-10 md:right-20 xs:bottom-2 xs:right-2
+}
+
+
+.heroBottomToLeftIcon {
+  @apply md:bottom-10 md:left-20 xs:bottom-2 xs:left-2
+}
+
+.heroToToRightIcon {
+  @apply md:right-20 md:top-10 xs:top-2 xs:right-2
+}
+
+
+.heroToToLeftIcon {
+  @apply md:top-10 md:left-20 xs:left-2 xs:top-2
+}
+
+.portfolioLink  {
+  @apply flex items-center justify-center gap-1 px-2 py-1 font-bold text-blue-900 uppercase border border-blue-900 rounded shadow-light-shadow dark:shadow-dark-outside-shadow
+}
+
+
+
+
+
+
+
+
+
+
+
+
