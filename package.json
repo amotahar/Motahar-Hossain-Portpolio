@@ -1,5 +1,5 @@
 {
-  "name": "final-portfolio",
+  "name": "Motahar-Hossain-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.9.0",
-    "react-router-dom": "^6.11.2",
+    "react-router-dom": "^6.12.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
     "react-scroll-to-top": "^3.0.0",
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "set CI=false && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

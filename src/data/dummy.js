@@ -124,26 +124,26 @@ export const projectsData = {
     portfolioData: [
         {
             id: 1,
-            projectName: 'Doctors portal',
-            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
-            code: 'https://github.com/amotahar/doctors-portal-client',
-            demo: 'https://doctors-portal-5c4fe.web.app/',
-            image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676099361/all-devices-black_wvbz6r.png"
+            projectName: 'Furniture Buy & Sell',
+            tags: ["React", "Mongodb", "JWT", "Stripe", "Express js ", "Node JS", "React-router-dom", "Firebase", "Imgbb", "TailwindCSS",],
+            code: 'https://github.com/amotahar/furniture-client',
+            Live: 'https://wood-seller-5887c.web.app/',
+            image: "https://ibb.co/qC2pQ7D"
         },
         {
             id: 2,
             projectName: 'Doctors portal',
-            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
+            tags: ["React", "Mongodb", "JWT", "Node js", "Express js ", "cloudinary"," Strip", "React-router-dom", "Imgbb", "TailwindCSS"],
             code: 'https://github.com/amotahar/doctors-portal-client',
             demo: 'https://doctors-portal-5c4fe.web.app/',
-            image: "https://i.ibb.co/W6g39w3/image.png"
+            image: "https://ibb.co/M9XT3WP"
         },
         {
             id: 3,
-            projectName: 'Doctors portal',
-            tags: ["React", "Mongodb", "JWT", "Node js", "Sass", "Redux toolkit", "Express js ", "cloudinary"," Strip", "React-router-dom"],
-            code: 'https://github.com/amotahar/doctors-portal-client',
-            demo: 'https://doctors-portal-5c4fe.web.app/',
+            projectName: 'Car Servicing',
+            tags: ["React", "Mongodb", "JWT", "Node js", "Express js ", "cloudinary"," Strip", "React-router-dom", "Imgbb", "TailwindCSS"],
+            code: 'https://github.com/amotahar/car-service-client',
+            Live: 'https://car-services-4c0e1.web.app/',
             image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676108691/portfolio_jfxxpx.png"
         },
     ]
