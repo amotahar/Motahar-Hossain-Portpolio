@@ -127,8 +127,8 @@ export const projectsData = {
             projectName: 'Furniture Buy & Sell',
             tags: ["React", "Mongodb", "JWT", "Stripe", "Express js ", "Node JS", "React-router-dom", "Firebase", "Imgbb", "TailwindCSS",],
             code: 'https://github.com/amotahar/furniture-client',
-            Live: 'https://wood-seller-5887c.web.app/',
-            image: "https://ibb.co/qC2pQ7D"
+            demo: 'https://wood-seller-5887c.web.app/',
+            image: "https://i.ibb.co/nBKjJ6w/1.png"
         },
         {
             id: 2,
@@ -136,7 +136,7 @@ export const projectsData = {
             tags: ["React", "Mongodb", "JWT", "Node js", "Express js ", "cloudinary"," Strip", "React-router-dom", "Imgbb", "TailwindCSS"],
             code: 'https://github.com/amotahar/doctors-portal-client',
             demo: 'https://doctors-portal-5c4fe.web.app/',
-            image: "https://ibb.co/M9XT3WP"
+            image: "https://i.ibb.co/fQcRPBr/2.png"
         },
         {
             id: 3,
@@ -144,7 +144,7 @@ export const projectsData = {
             tags: ["React", "Mongodb", "JWT", "Node js", "Express js ", "cloudinary"," Strip", "React-router-dom", "Imgbb", "TailwindCSS"],
             code: 'https://github.com/amotahar/car-service-client',
             Live: 'https://car-services-4c0e1.web.app/',
-            image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676108691/portfolio_jfxxpx.png"
+            image: "https://i.ibb.co/WpT9N60/3.png"
         },
     ]
 }
