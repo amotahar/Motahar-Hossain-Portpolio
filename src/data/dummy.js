@@ -58,8 +58,7 @@ export const aboutData = {
     leftTitle: "About",
     rightTitlte: "My Skills",
     description: "My name is Motahar Hossain , I am Mern Stack Developer from Dhaka, Bangladesh. I have rich experience in web site design and building and customization, also I am good at Mern Stack .",
-    // cvLink: "https://drive.google.com/file/d/15G7CrUyBJDSLMbv6wBe88mbKUPGRTyG4/view",
-    cvLink: "",
+    cvLink: "https://drive.google.com/uc?id=17lRA3nZV03uoTrZ1Fg6XLJvUUgiKwrZb&export=download",
     skills: [
         {
             catagory: "Programming  Language",
@@ -143,7 +142,7 @@ export const projectsData = {
             projectName: 'Car Servicing',
             tags: ["React", "Mongodb", "JWT", "Node js", "Express js ", "cloudinary"," Strip", "React-router-dom", "Imgbb", "TailwindCSS"],
             code: 'https://github.com/amotahar/car-service-client',
-            Live: 'https://car-services-4c0e1.web.app/',
+            demo: 'https://car-services-4c0e1.web.app/',
             image: "https://i.ibb.co/WpT9N60/3.png"
         },
     ]
