@@ -7,7 +7,7 @@ import SkillsItem from './SkillsItem'
 function About() {
 
 
-  const { leftTitle, rightTitlte,description, skills, cvLink } = aboutData;
+  const { leftTitle, rightTitlte,description,  cvLink } = aboutData;
 
   
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
-import { FaMobile } from "react-icons/fa"
-import {motion}  from "framer-motion"
-import { BoxItem } from '../../data/motionAnimation'
+//import { FaMobile } from "react-icons/fa"
+//import {motion}  from "framer-motion"
+//import { BoxItem } from '../../data/motionAnimation'
 function ContactInfoItem({ title, icon, subTitle }) {
     return (
         <div   className='flex flex-col items-center gap-3 py-10 text-center shadow-light-shadow dark:shadow-dark-shadow'>

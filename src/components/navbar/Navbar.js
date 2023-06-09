@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react'
-import { darkIocn, ligihtIcon } from '../../assets'
+//import { darkIocn, ligihtIcon } from '../../assets'
 import { navlinks } from '../../data/dummy'
 import { navLinkVariants } from '../../data/motionAnimation'
 import { motion } from "framer-motion"
 import DarkButton from './DarkButton'
-import Button from '../../subComponents/Button'
+//import Button from '../../subComponents/Button'
 import { RxHamburgerMenu } from "react-icons/rx"
 import { AiOutlineClose } from "react-icons/ai"
 import { NavHashLink } from 'react-router-hash-link'
-import { Link } from 'react-router-dom'
+//import { Link } from 'react-router-dom'
 
 
 function Navbar() {

@@ -1,17 +1,17 @@
 import React from 'react'
-import Button from '../../subComponents/Button'
-import Navbar from '../navbar/Navbar'
+//import Button from '../../subComponents/Button'
+//import Navbar from '../navbar/Navbar'
 import { NavHashLink } from 'react-router-hash-link'
 
 import { motion } from "framer-motion"
-import { boxMotionItemVariant, boxMotionVariant, iconsAnimationVariant } from '../../data/motionAnimation'
+import { boxMotionItemVariant, iconsAnimationVariant } from '../../data/motionAnimation'
 // import { heroImg } from '../../assets'
 import { heroData } from '../../data/dummy'
 
 
 function Hero() {
 
-  const { title, subTitle, description, resumeLink, heroImg, heroIcons } = heroData;
+  const { title, subTitle, description, heroImg, heroIcons } = heroData;
 
   const moveVariants = {
     animation: {
@@ -53,7 +53,7 @@ function Hero() {
                   delay: 0.5
                 }
               } className='flex items-center justify-center w-full text-center'>
-              <img className='aspect-square w-[70%] rounded-full  shadow-light-shadow  dark:shadow-dark-shadow' src={heroImg} />
+              <img className='aspect-square w-[70%] rounded-full  shadow-light-shadow  dark:shadow-dark-shadow' src={heroImg} alt='' />
             </div>
             <div className='absolute top-0 right-0 w-full h-full'>
               <div className='relative w-full h-full '>

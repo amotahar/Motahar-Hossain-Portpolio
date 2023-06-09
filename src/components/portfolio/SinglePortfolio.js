@@ -1,5 +1,5 @@
 import React from 'react'
-import { BoxItem } from '../../data/motionAnimation'
+//import { BoxItem } from '../../data/motionAnimation'
 import {MdLiveTv}  from "react-icons/md"
 import {BsFileEarmarkCodeFill}  from "react-icons/bs"
 

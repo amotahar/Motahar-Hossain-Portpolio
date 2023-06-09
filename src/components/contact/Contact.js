@@ -1,7 +1,7 @@
 import React from 'react'
 import SectionHeader from '../../subComponents/SectionHeader'
 import ContactForm from './ContactForm'
-import { FaEnvelope, FaMobile, FaStoreAlt } from "react-icons/fa"
+//import { FaEnvelope, FaMobile, FaStoreAlt } from "react-icons/fa"
 import ContactInfoItem from './ContactInfoItem'
 import { contactData } from '../../data/dummy'
 function Contact() {
